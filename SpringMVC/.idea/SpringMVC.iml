@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/springmvc-03-annotation/target/classes/springmvc-servlet.xml</file>
+          <file>file://$MODULE_DIR$/springmvc-02-hellomvc/src/main/resources/springmvc-servlet.xml</file>
+          <file>file://$MODULE_DIR$/springmvc-02-hellomvc/target/classes/springmvc-servlet.xml</file>
+          <file>file://$MODULE_DIR$/springmvc-03-annotation/src/main/resources/springmvc-servlet.xml</file>
+          <file>file://$MODULE_DIR$/springmvc-04-controller/target/classes/springmvc-servlet.xml</file>
+          <file>file://$MODULE_DIR$/springmvc-04-controller/src/main/resources/springmvc-servlet.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
